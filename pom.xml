@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ngVideo</artifactId>
-    <version>0.4.13-SNAPSHOT</version>
+    <version>0.4.13</version>
     <name>ngVideo</name>
     <description>WebJar for ngVideo</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/ngVideo</url>
         <connection>scm:git:https://github.com/webjars/ngVideo.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ngVideo.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>ngVideo-0.4.13</tag>
     </scm>
     
     <dependencies>
